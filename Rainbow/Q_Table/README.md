@@ -1,3 +1,3 @@
 # Q Table
  
-<img align='center' src='https://miro.medium.com/max/534/1*NvvRn59pz-D1iSkBWpuIxA.png' width='600"'>
+<img align='center' src='https://www.eecs.tufts.edu/~mguama01/post/q-learning/qlearning.png' width='600"'>
