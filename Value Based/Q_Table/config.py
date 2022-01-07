@@ -1,7 +1,7 @@
 import gym
 env= gym.make('FrozenLake-v1')
 
-episodes= 1000
+episodes= 10000
 max_step=100
 
 alpha= 0.5
