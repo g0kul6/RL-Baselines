@@ -4,6 +4,8 @@ A repo to house my reliable Reinforcement Algorithms
 
 <img align='center' src='https://www.kdnuggets.com/images/reinforcement-learning-fig1-700.jpg' width='600"'>
 
+<img align='center' src='https://github.com/g0kul6/RL-Baselines/blob/main/Value%20Based/DQN/video/openaigym.video.0.5311.video000000.mp4' width='600"'>
+
 List of Algorithms:
 - Rainbow
   - Q Table
