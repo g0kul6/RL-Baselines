@@ -9,7 +9,7 @@ A repo to house my reliable Reinforcement Algorithms
 <img align='center' src='random_agent.gif' width='600"'>
 
 
-List of Algorithms:
+# List of Algorithms:
 - Rainbow
   - Q Table
   - DQN
